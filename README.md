@@ -166,7 +166,7 @@ Monitoring
 
 ## Docker Image
 
-![](assets/screenshots/Captured'écran2026-07-12113315.png)
+![](assets/screenshots/dockerhub-image.png)
 
 ---
 
