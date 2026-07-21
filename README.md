@@ -1047,35 +1047,6 @@ Docker Compose overrides:
 
 ---
 
-## Future Improvements
-
-- Add cross-validation
-- Add automated hyperparameter optimization
-- Compare Random Forest with XGBoost, LightGBM, and gradient boosting
-- Tune the classification threshold
-- Improve potable-class recall
-- Add probability calibration
-- Add feature-selection analysis
-- Add feature-importance visualizations
-- Add confusion-matrix and ROC-curve artifacts to MLflow
-- Add an MLflow Model Registry workflow
-- Add MLflow as a Docker Compose service
-- Add automated model promotion between environments
-- Add scheduled retraining
-- Add data-drift and concept-drift detection
-- Integrate Prometheus and Grafana
-- Add authentication and authorization
-- Add rate limiting
-- Add cloud object storage
-- Add Kubernetes manifests
-- Add Helm packaging
-- Deploy to AWS, Azure, or Google Cloud
-- Improve automated test coverage
-- Add load and performance testing
-- Add automated Docker image publishing
-- Add a preconfigured Kibana dashboard
-
----
 
 ## License
 
